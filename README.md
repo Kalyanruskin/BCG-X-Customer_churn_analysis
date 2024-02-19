@@ -61,6 +61,12 @@ In the dynamic landscape of customer-centric businesses, understanding and mitig
 
 3. Follow the instructions and run the code cells to perform customer churn analysis.
 
+## Insights
+
+- Churn is indeed high in the SME division i.e 9.7% across 14606 customers.
+- Predictive model is able topredict churnbut the main driver is not customer price sensitivity; **Yearly consumption**, **forecasted consumption** and **net margin** are the 3 largest drivers.
+- Discount strategy of 20% is effective but only if targeted appropriately ; Offer discount to only to high-value customers with high churn probability.
+
 ## Data Source
 
 The project utilizes a dataset reflecting customer interactions. The dataset is available at data/client_data (1).csv, price_data (1).csv
